@@ -2,6 +2,7 @@
  What is CompassDirect?
 
 CompassDirect (CD) is a lightweight, easy-to-use, player-based plugin which helps players find, save, and tell locations to each other. Whenever someone uses a CD compass, they get their own set of locations that server admins can choose, as well as ones that the player can choose. For example, your server has a set of shops, a spawn, a wilderness area, and a plots zone. However, they are scattered around your map and isn't very "user friendly" to find them. Well, thanks to CD, you can 'globally' save these locations, so any compass that any player uses, they will always have those locations saved. Now lets say you are a player, and come across a dungeon, and for some reason leave it to come back another time. Well normally, people would just have to remember where that location is. But with CD, a simple command will save that location into their locations list so that they can locate that location whenever they want. Also, lets say Bob here finds a location, and wants to tell Jeremy who's in his faction that location, a simple command will prompt Jeremy if he wants to save the location or not. (Like a teleportation request, but no telepotration).
+
 Commands and Uses
 * /cd activate
 
@@ -36,6 +37,8 @@ Commands and Uses
 * /cd help
 
 ~Pretty self explanatory...
+
+
 Permissions
 * compassdirect.op
 
@@ -55,6 +58,8 @@ Permissions
 * compassdirect.share
 
 ~gives access to command /cd tell
+
+
 Compass Use
 
 ~Using the compass in game is very easy. With a compass in hand, right click to cycle up once through your location save list. Left click to cycle down one location. When you cycle, the pointer on the compass points directly toward the locations saved coordinate. Its that simple!
