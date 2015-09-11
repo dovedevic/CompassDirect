@@ -1,0 +1,9 @@
+main: com.gmail.dovedevic.plugins.CompassDirect.CompassDirect
+name: CompassDirect
+version: 1.7
+author: dovedevic
+description: Points your compass to a place based on its name!
+commands:
+    cd:
+        description: Finds, stores, and shows coordinates you want on a compass!
+        usage: Type in /cd help to see all commands and usage!

@@ -1,0 +1,21 @@
+#CompassDirect
+#Made by : dovedevic
+enable_UpdatePrompt: true
+enable_visable_location_registration_in_console: true
+enable_player_added_registration_in_console: true
+enable_player_fixes_in_console: true
+enable_player_custom_add_location_registration_in_console: false
+unsafe:
+  Wilderness: 0,0,0
+safe:
+  Plots: 0,0,0
+shop:
+  DevicsShop: 0,0,0
+spawn:
+  Spawn: 0,0,0
+#DONT EDIT ANYTHING BELOW. THESE ARE PLAYER'S LOCATIONS.
+aTestPlayer:
+  Wilderness: 10,10,10
+  Plots: -10,10,
+  DevicsShop: -10,10,-10
+  Spawn: 10,10,-10
